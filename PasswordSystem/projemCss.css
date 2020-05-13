@@ -77,11 +77,6 @@ input {
 }
 
 
-
-
-
-
-
 #modalContainer {
     background-color:rgba(0, 0, 0, 0.3);
     position:absolute;
@@ -140,8 +135,6 @@ input {
     text-decoration:none;
 }
 
-
-
 #mContainer {
     position:relative;
     width:600px;
@@ -191,6 +184,5 @@ code {
 code span {
     color:green;
 }
-
 
 
